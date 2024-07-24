@@ -1,7 +1,7 @@
 # ParaBank Application
 
 ![ParaBank Application]
-([https://www.google.com/imgres?q=parabank&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4D0BAQGqeKaWK_02wg%2Fcompany-logo_200_200%2F0%2F1708452460626%2Fmundoparabank_logo%3Fe%3D2147483647%26v%3Dbeta%26t%3D4h2bdOMZMRQtAnsIz9SglT5JDBOq_BKeKYqHQiuzNhk&imgrefurl=https%3A%2F%2Faz.linkedin.com%2Fcompany%2Fmundoparabank%3Ftrk%3Dppro_cprof&docid=KeZhSX3WMcEFuM&tbnid=G0J0ORycBMN2JM&vet=12ahUKEwiipMW0-L-HAxXC1gIHHeWYN-cQM3oECFYQAA..i&w=200&h=200&hcb=2&ved=2ahUKEwiipMW0-L-HAxXC1gIHHeWYN-cQM3oECFYQAA](https://ae.linkedin.com/company/parabank?trk=public_profile_experience-item_profile-section-card_image-click)
+(https://ae.linkedin.com/company/parabank?trk=public_profile_experience-item_profile-section-card_image-click)
 
 ## Table of Contents
 
