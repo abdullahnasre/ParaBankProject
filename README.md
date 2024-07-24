@@ -1,7 +1,7 @@
 # ParaBank Application
 
 ParaBank Application
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsU974eHWTAhmHdWUScuKWfE2uHVZZ-ZWARyvCTt6NPPJIsK-auuRc7iCSBs4y1cAaAA&usqp=CAU)
+[(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsU974eHWTAhmHdWUScuKWfE2uHVZZ-ZWARyvCTt6NPPJIsK-auuRc7iCSBs4y1cAaAA&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsU974eHWTAhmHdWUScuKWfE2uHVZZ-ZWARyvCTt6NPPJIsK-auuRc7iCSBs4y1cAaAA&usqp=CAU)
 
 ## Table of Contents
 
