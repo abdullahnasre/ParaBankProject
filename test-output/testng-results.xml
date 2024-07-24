@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-05T20:07:58 EEST" name="AltoroMutualProject" finished-at="2024-07-05T20:08:18 EEST" duration-ms="20443">
+    <groups>
+      <group name="smoke">
+        <method signature="TC01_Register.CheckSignUpLinkClickable(org.testng.ITestContext)[pri:1, instance:TestCases.TC01_Register@6eabe718]" name="CheckSignUpLinkClickable" class="TestCases.TC01_Register"/>
+        <method signature="TC02_Login.loginWithValidData_P(org.testng.ITestContext)[pri:2, instance:TestCases.TC02_Login@63a7781]" name="loginWithValidData_P" class="TestCases.TC02_Login"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-07-05T20:07:58 EEST" name="TC01 Verify Register and Login Successfully" finished-at="2024-07-05T20:08:18 EEST" duration-ms="20443">
+      <class name="TestCases.TC01_Register">
+        <test-method is-config="true" signature="defineSuiteElements()[pri:0, instance:TestCases.TC01_Register@6eabe718]" started-at="2024-07-05T20:07:57 EEST" name="defineSuiteElements" finished-at="2024-07-05T20:07:58 EEST" duration-ms="1260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defineSuiteElements -->
+        <test-method is-config="true" signature="setupDriver(java.lang.String)[pri:0, instance:TestCases.TC01_Register@6eabe718]" started-at="2024-07-05T20:07:58 EEST" name="setupDriver" finished-at="2024-07-05T20:08:11 EEST" duration-ms="12236" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="CheckSignUpLinkClickable(org.testng.ITestContext)[pri:1, instance:TestCases.TC01_Register@6eabe718]" started-at="2024-07-05T20:08:11 EEST" name="CheckSignUpLinkClickable" description="Register with Valid Data" finished-at="2024-07-05T20:08:15 EEST" duration-ms="4560" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7e366c6f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSignUpLinkClickable -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestCases.TC01_Register@6eabe718]" started-at="2024-07-05T20:08:15 EEST" name="getResult" finished-at="2024-07-05T20:08:15 EEST" duration-ms="24" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CheckSignUpLinkClickable status=SUCCESS method=TC01_Register.CheckSignUpLinkClickable(org.testng.ITestContext)[pri:1, instance:TestCases.TC01_Register@6eabe718] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:TestCases.TC01_Register@6eabe718]" started-at="2024-07-05T20:08:18 EEST" name="quit" finished-at="2024-07-05T20:08:18 EEST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC01_Register@6eabe718]" started-at="2024-07-05T20:08:19 EEST" name="tearDown" finished-at="2024-07-05T20:08:19 EEST" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC01_Register -->
+      <class name="TestCases.TC02_Login">
+        <test-method signature="loginWithValidData_P(org.testng.ITestContext)[pri:2, instance:TestCases.TC02_Login@63a7781]" started-at="2024-07-05T20:08:16 EEST" name="loginWithValidData_P" description="Login with Valid Username and Password" finished-at="2024-07-05T20:08:18 EEST" duration-ms="2552" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7e366c6f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidData_P -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestCases.TC02_Login@63a7781]" started-at="2024-07-05T20:08:18 EEST" name="getResult" finished-at="2024-07-05T20:08:18 EEST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginWithValidData_P status=SUCCESS method=TC02_Login.loginWithValidData_P(org.testng.ITestContext)[pri:2, instance:TestCases.TC02_Login@63a7781] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- TestCases.TC02_Login -->
+    </test> <!-- TC01 Verify Register and Login Successfully -->
+  </suite> <!-- AltoroMutualProject -->
+</testng-results>
