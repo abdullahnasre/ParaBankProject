@@ -1,5 +1,5 @@
 # ParaBank Application
-ParaBank Application
+
 
 
 ![image](https://github.com/user-attachments/assets/2c9e7758-7737-40c8-83ae-f21cdb34e424)
