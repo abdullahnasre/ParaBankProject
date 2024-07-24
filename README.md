@@ -1,7 +1,8 @@
 # ParaBank Application
 
 ParaBank Application
-(https://camo.githubusercontent.com/56b8c2a3a4b999cf0539a7e689622ab55fe60e485ce97272095a9a33e1295761/68747470733a2f2f696d672e7375722e6c792f7468756d626e61696c732f363230783334332f702f7061726162616e6b2e70617261736f66742e636f6d2e706e67)
+(![image](https://github.com/user-attachments/assets/3bf26d12-6615-4b04-9b06-0c7a141e36b9)
+)
 
 
 
